@@ -36,3 +36,5 @@
 .vscode/c_cpp_properties.json
 
 src/credentials.h
+.vscode/launch.json
+.travis.yml
